@@ -1,0 +1,3 @@
+
+-- the conda environment to be used is 'keras-env' 
+
